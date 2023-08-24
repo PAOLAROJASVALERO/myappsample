@@ -24,7 +24,7 @@ ssc install expl
 		   //Paola's PC
 		}
 	if "`c(username)'"=="Paola" {
-			global path "C:\Users\Paola\AGL Dropbox\LicitacionesCenabast"
+			global path "C:\Users\Paola\AGL Dropbox\version1/LicitacionesCenabast"
 		   //Paola's laptop
 		}
     pwd
